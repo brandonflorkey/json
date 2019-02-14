@@ -1,0 +1,34 @@
+[
+    {
+       "name": "Coca-Cola",
+       "rank": "1",
+       "postfail": "10",
+       "missinginsights": "5",
+       "missingpageinsights": "2",
+       "tenminutedelay": "1"
+    },
+    {
+       "name": "Mondelez",
+       "rank": "2",
+       "postfail": "2",
+       "missinginsights": "2",
+       "missingpageinsights": "0",
+       "tenminutedelay": "2"
+    },
+    {
+       "name": "Laura Mercier",
+       "rank": "3",
+       "postfail": "3",
+       "missinginsights": "5",
+       "missingpageinsights": "2",
+       "tenminutedelay": "1"
+    },
+    {
+       "name": "Starbucks",
+       "rank": "4",
+       "postfail": "2",
+       "missinginsights": "5",
+       "missingpageinsights": "2",
+       "tenminutedelay": "1"
+    }
+  ]
